@@ -1,0 +1,6 @@
+{
+  "name": "WMT-TV Cast",
+  "description": "Catálogo completo de TVs web do blog com ferramenta de espelhamento e transmissão para Chromecast, AirPlay e Smart TVs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
